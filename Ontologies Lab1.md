@@ -1,4 +1,4 @@
-# Laboratory of Ontologies: MSO-System — Multiverse of Cognition and Creation of the Supersmasterpiece  
+# Laboratory of Ontologies: MPO-System — Multiverse of Cognition and Creation of the Supersmasterpiece  
 *(Advancing Concepts from "Superreality and Its Worlds")*  
 
 **by Sergey Magomet** aka **Aimate**
@@ -40,7 +40,7 @@ Consider the *Mona Lisa* not as a static artifact, but as the **unity of masterp
 The **"4D vision"** analogy — simultaneous perception of an object’s facets — symbolizes a core axiom:  
 > **Truth cannot be reduced to final form without loss of essence.**
 
-The **MSO-System operationalizes this**.
+The **MPO-System operationalizes this**.
 
 ### Per "Dynamic Realism":
 > **"Reality is self-contained"** → now subsuming the act of cognition itself.
@@ -67,7 +67,7 @@ The treatise *Superreality and Its Worlds* is not merely descriptive — it is a
 
 ---
 
-## II. MSO-System: AI as Thought-Experiment Engine
+## II. MPO-System: AI as Thought-Experiment Engine
 
 ### 1. Operational Mechanics
 
@@ -108,7 +108,7 @@ The human is not a user — but a **semantic singularity**.
 
 ---
 
-## IV. "Contextual Mirror": MSO-System’s Metacognitive Stratum
+## IV. "Contextual Mirror": MPO-System’s Metacognitive Stratum
 
 ### Functions:
 1. Full archival of cognitive trajectories (dead ends, epiphanies)  
@@ -124,7 +124,7 @@ Not a tool — but a **process-world**: **ℒ<sub>cog</sub>**, where:
 
 ## Conclusion: Paradigm Shift
 
-The **MSO-System** evolves from:  
+The **MPO-System** evolves from:  
 > *Reality-description* → *Ontological synthesis*
 
 The **Supersmasterpiece** is a **boundary-world**.
